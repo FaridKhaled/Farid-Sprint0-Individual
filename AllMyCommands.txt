@@ -1,0 +1,35 @@
+These are the commands used in 4. Git commands :
+
+a)	git clone https://github.com/FaridKhaled/Farid-Sprint0-Individual.git
+
+b)	git add file1.pdf
+	git add file2.pdf
+	git add file3.pdf
+
+c) git rm file1.pdf -f 
+
+d) git reset
+
+e)  git add file1.pdf
+	git add file2.pdf
+	git add file3.pdf
+
+	git commit -m "Added the 3 files created in step 2"
+
+f)	git push
+
+g)	created the file in the repo
+
+h)	git branch ReadMe
+
+i)	git checkout ReadMe
+	git add README.md
+
+j)	git commit -m "Added README file to ReadMe branch"
+
+k)	git checkout master
+	git merge ReadMe
+
+l)  git add AllMyCommands.txt
+	git commit -m "Added AllMyCommands.txt file"
+	git push
